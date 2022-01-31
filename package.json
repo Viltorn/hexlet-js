@@ -1,0 +1,20 @@
+{
+  "name": "FrontendProject1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "hexlet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viltorn/hexlet-js.git"
+  },
+  "author": "Viltorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viltorn/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Viltorn/hexlet-js#readme"
+}
